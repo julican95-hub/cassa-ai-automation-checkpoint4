@@ -51,20 +51,19 @@ La creación de contactos nuevos en HubSpot quedó pendiente de verificación me
 
 ## Evidencia de integraciones
 
-![HubSpot, Gmail y Airtable](credenciales_1.png)
+![HubSpot, Gmail y Airtable](evidencias/credenciales_1.png)
 
-![Airtable, Slack y Groq](credenciales_2.png)
+![Airtable, Slack y Groq](evidencias/credenciales_2.png)
 
 *Credenciales configuradas en n8n. Las claves y tokens de acceso no se publican.*
 
 ## Arquitectura del workflow
 
-Vista general del sistema de automatización desarrollado en n8n.
-
-![Canvas completo del workflow](workflow_canvas.png)
+![Canvas completo del workflow](evidencias/workflow_canvas.png)
 
 ### Detalle del flujo de integraciones
-![Detalle del workflow](workflow_detalle.png)
+
+![Detalle del workflow](evidencias/workflow_detalle.png)
 
 ## Instrucciones de importación
 

@@ -57,6 +57,15 @@ La creación de contactos nuevos en HubSpot quedó pendiente de verificación me
 
 *Credenciales configuradas en n8n. Las claves y tokens de acceso no se publican.*
 
+## Arquitectura del workflow
+
+Vista general del sistema de automatización desarrollado en n8n.
+
+![Canvas completo del workflow](workflow_canvas.png)
+
+### Detalle del flujo de integraciones
+![Detalle del workflow](workflow_detalle.png)
+
 ## Instrucciones de importación
 
 1. Importar `checkpoint4_canzio_julieta.json` desde n8n.

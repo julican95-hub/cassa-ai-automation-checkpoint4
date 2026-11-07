@@ -49,6 +49,14 @@ Se realizaron pruebas funcionales de:
 
 La creación de contactos nuevos en HubSpot quedó pendiente de verificación mediante una prueba completa.
 
+## Evidencia de integraciones
+
+![HubSpot, Gmail y Airtable](credenciales_1.png)
+
+![Airtable, Slack y Groq](credenciales_2.png)
+
+*Credenciales configuradas en n8n. Las claves y tokens de acceso no se publican.*
+
 ## Instrucciones de importación
 
 1. Importar `checkpoint4_canzio_julieta.json` desde n8n.
